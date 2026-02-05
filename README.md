@@ -1,10 +1,10 @@
-````md
+
 # 💱 GlobalPayDB — Sistema de Remessas Internacionais
 
 Projeto de banco de dados para simular um sistema de transferências financeiras entre contas com diferentes moedas, incluindo conversão cambial, validação de saldo e controle transacional.
 
 
-## 🚀 Funcionalidades
+### 🚀 Funcionalidades
 
 - Cadastro de clientes e contas
 - Suporte a múltiplas moedas
@@ -16,7 +16,7 @@ Projeto de banco de dados para simular um sistema de transferências financeiras
 - Tratamento de erros (TRY/CATCH)
 - Registro de transações
 
-## 🛠️ Tecnologias
+### 🛠️ Tecnologias
 
 - SQL Server
 - T-SQL
